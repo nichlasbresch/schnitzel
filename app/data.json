@@ -1,0 +1,20 @@
+[
+	{
+		title: 'Title 1',
+		lat: 50.3551,
+		lng: 14.02314,
+		rating: 4
+	},
+	{
+		title: 'Title 2',
+		lat: 51.1551,
+		lng: 14.12314,
+		rating: 2
+	},
+	{
+		title: 'Title 3',
+		lat: 50.1551,
+		lng: 13.92314,
+		rating: 3
+	}
+]
